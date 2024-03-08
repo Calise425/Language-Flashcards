@@ -5,6 +5,7 @@ BACKGROUND_COLOR = "#B1DDC6"
 # change language here
 LANGUAGE = "korean"
 # TODO add a dropdown for language changes?
+# TODO change the card flip functionality to trigger on card click, not after time
 
 # ----------------------------- DATA READING AND ORGANIZING ----------------------------- #
 try:
